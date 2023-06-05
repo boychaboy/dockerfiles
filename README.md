@@ -2,7 +2,9 @@
 > Personal Dockerfiles
 
 ### build
+```
 docker image build --tag ubuntu:0.1 /ubuntu/
+```
 
 ### run
 ```
